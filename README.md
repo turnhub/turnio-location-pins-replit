@@ -15,3 +15,5 @@ An example Turn.io webhook integration on Replit for location pins. This will re
 3. Sign-up for a free [WeatherApi.com account](https://www.weatherapi.com/) and obtain an API token, add that as a secret called `WEATHER_API_TOKEN` in Repl.it
 4. Set up the webhook in Turn using the URL generated for your workspace by Repl.it. 
 5. Send a message with a location pin to your number and receive information about the current weather at your location.
+
+![screenshot](./screenshot.png)
